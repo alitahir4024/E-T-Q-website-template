@@ -1,0 +1,97 @@
+@media screen  and (min-width:360px) and (max-width:640px)
+{
+    *,body{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        text-decoration: none;
+        transition: all 0.5s;
+        letter-spacing: 1px;
+        color: inherit;
+        scroll-behavior: smooth;
+        font-family: 'Anton', sans-serif;
+    }
+
+    section{
+    background-size: 200% 100%;
+    background-repeat: no-repeat;
+    }
+
+    section>nav{
+        height: 8vh;
+    }
+
+    section>nav>ul{
+        position: absolute;
+        display: block;
+        background-color: rgba(0,0,0,0.5);
+        height: 30vh;
+        width: 100%;
+        display: grid;
+        align-content: space-around;
+        justify-content: flex-start;
+        opacity: 0;
+        visibility: hidden;
+        transition: all 0.5s;
+    }   
+
+    section>nav>ul>li{
+        padding-left: 20px;
+    }
+
+    .bar{
+        display: block;
+        position: absolute;
+        top: 0;
+    }
+
+    .logo{
+        position: absolute;
+        left: 45%;
+        top: 0;
+    }
+
+    section>nav>div{
+        position: absolute;
+        right: 8%;
+        width: 15vw;
+        height: 3vh;
+    }
+
+    section>nav>div>i{
+        font-size: 1rem;
+    }
+
+    section>nav>div>span{
+        position: absolute;
+        height: 2.5vh;
+        width: 5vw;
+        top: 2px;
+    }
+
+    .move{
+        left: 30px;
+    }
+    
+    .cross{
+        position: absolute;
+        display: block;
+        right: 7px;
+        top: 1px;
+        color: white;
+        font-weight: bold;
+        font-size: 1.4rem;
+        transition: all 0.5s;
+        cursor: pointer;
+    }
+
+    .landing-page-text>h1{
+        font-size: 2.5rem;
+        text-align: center;
+        line-break: strict;
+    }
+
+    .landing-page-text>button{
+        width: 45vw;
+    }
+}

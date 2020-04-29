@@ -1,0 +1,108 @@
+.for-section{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('./img/new-home-essense-1-e1580745362504-2500x0-c-default.jpg');
+    transition: all 0.5s;
+}
+
+.move{
+    left: 50px;
+    transition: all 0.5s;
+}
+
+.for-li-logo{
+    color: grey;
+    transition: all 0.5s;
+}
+
+.for-bar{
+    color: grey;
+    transition: all 0.5s;
+}
+
+.for-cross{
+    color: grey !important;
+    transition: all 0.5s;
+}
+
+.for-btn{
+    box-shadow: none !important;
+    background-color: grey !important;
+    color: white !important;
+    border: none !important;
+    transition: all 0.5s !important;
+}
+
+.for-h1{
+    color: grey !important;
+    text-shadow: 2px 2px 0px #ffffff !important;
+}
+
+.for-text{
+    background-color: rgba(212, 211, 211, 0.5);
+    box-shadow: -1px 0px 20px 3px white;
+}
+
+.for-outlet{
+    background-color: #323232;
+    transition: all 0.5s;
+}
+
+.for-text-h1-p{
+    color: whitesmoke !important;
+    transition: all 0.5s !important;
+}
+
+.for-text-btn{
+    color: whitesmoke !important;
+    box-shadow: 0px 0px 10px 2px white !important;
+    transition: all 0.5s !important;
+}
+
+.for-partner{
+    background-color: rgba(0,0,0,0.5) !important;
+    transition: all 0.5s !important;
+}
+
+.for-li{
+    color: rgb(195, 193, 193) !important;
+    transition: all 0.5s !important;
+}
+
+.for-slider-section{
+    background-color: #323232;
+    transition: all 0.5s;
+}
+
+.for-slider-controls{
+    background-color: whitesmoke !important;
+    box-shadow: 0px 0px 10px 1px rgba(212, 211, 211, 0.5) !important;
+}
+
+.for-sub-slider-h2-p{
+    color: rgba(212, 211, 211, 0.5) !important;
+    transition: all 0.5s;
+}
+
+.for-footer-span{
+    color: whitesmoke !important;
+    transition: all 0.5s !important;
+}
+
+.for-footer-ul-li{
+    background-color: #323232 !important;
+    transition: all 0.5s !important;
+}
+
+.for-footer-ul-li-i{
+    color: whitesmoke !important;
+    transition: all 0.5s !important;
+}
+
+.for-hover-li{
+    background-color: rgba(212, 211, 211, 0.5) !important;
+    transition: all 0.5s !important;
+}
+
+.for-hover-li-i{
+    color: #323232 !important;
+    transition: all 0.5s !important;
+}
