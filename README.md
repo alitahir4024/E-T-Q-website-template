@@ -26,6 +26,8 @@ E-T-Q is an website template build with modern HTML CSS and jQuery.
 
 (https://ali-tahir4024.github.io/E-T-Q-website-template/).
 
+# Please rename the file "index.php" to "index.html" to use or run it.
+
 # Note:
 
 Please add jquery file or attach jQuery file to run your code.
