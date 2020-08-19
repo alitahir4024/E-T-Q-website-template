@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="style1.css">
     <link rel="stylesheet" href="responsive.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/d1a81d2769.js" crossorigin="anonymous"></script>
     <link rel="shortcut icon" href="./img/cursor-zoomin.png" type="image/x-icon">
@@ -240,7 +241,6 @@
 
     <script src="script.js" defer></script>
 
-    <script src="jquery-3.5.0.min.js"></script>
 
 </body>
 
