@@ -24,7 +24,7 @@ E-T-Q is an website template build with modern HTML CSS and jQuery.
 
 ## Project Preview:
 
-(https://e-t-q-website-template.herokuapp.com/).
+(http://etq-webiste-template.surge.sh/).
 
 # Please rename the file "index.php" to "index.html" to use or run it.
 
