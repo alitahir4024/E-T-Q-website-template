@@ -24,4 +24,4 @@ E-T-Q is an website template build with modern HTML CSS and jQuery.
 
 ## Project Preview:
 
-(E.T.Q Website Template)[http://etq-webiste-template.surge.sh/]
+[E.T.Q Website Template](http://etq-webiste-template.surge.sh/)
